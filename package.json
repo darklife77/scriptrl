@@ -1,0 +1,33 @@
+{
+  "name": "@Floffah/learnwithirl",
+  "version": "1.0.0",
+  "description": "A set of classes based on a variety of things you do in your day to day life, but to help learn how to code in node.js/js",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floffah/learnwithirl.git"
+  },
+  "keywords": [
+    "learn",
+    "nodejs",
+    "node.js",
+    "node",
+    "js",
+    "with",
+    "real",
+    "life",
+    "stuff"
+  ],
+  "author": "Floffah",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Floffah/learnwithirl/issues"
+  },
+  "homepage": "https://github.com/Floffah/learnwithirl#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
