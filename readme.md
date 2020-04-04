@@ -1,9 +1,10 @@
-# Learn With IRL
+# ScriptRL
 
-Learnwithirl is a library that uses real life circumstances and procedures to learn how to code with node.js.
+ScriptRL is a library that uses real life circumstances and procedures to learn how to code with NodeJS.
+This could also be used to handle certain parts of games.
+
+Is extensible.
 
 **This library is not finished, expect more commits soon.**
 
-## Please Note
-
-Learnwithirl currently only has a d.ts file and examples so don't try running anything since you'll just get "undefined" errors. This will be changed in the future.
+See [the docs]() for more info.

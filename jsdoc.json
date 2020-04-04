@@ -1,0 +1,25 @@
+{
+  "opts": {
+    "template": "node_modules/jsdoc-template",
+    "recurse": true,
+    "destination": "./docs/",
+    "tutorials": "./guide/"
+  },
+  "tags": {
+    "allowUnknownTags": true,
+    "dictionaries": ["jsdoc"]
+  },
+  "source": {
+    "include": ["src", "lib", "package.json", "readme.md"],
+    "includePattern": ".+\\.js(doc|x)?$",
+    "exclude": ["node_modules", "docs"]
+  },
+  "plugins": [
+    "plugins/markdown"
+  ],
+  "templates": {
+    "referenceTitle": "ScriptRL",
+    "disableSort": false,
+    "collapse": true
+  }
+}
